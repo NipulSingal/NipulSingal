@@ -4,7 +4,7 @@
 
 
 ## Hi there 👋,           
-I'm Nipul Singal, Student at 👨‍💻 University School of Information, Communication and Technology Pursuing BTech-IT. I am a Full Stack Web Developer(MERN) and have a keen interest for Competitive Programming too. Be sure to check my Profile and in case of any doubts or offers, please reach out to me. Thanks a lot. :)
+I'm Nipul Singal, Student at 👨‍💻 University School of Information, Communication and Technology Pursuing BTech-IT. I am a Software Engineer, Full Stack Web Developer(MERN) and have a keen interest for Competitive Programming too. Be sure to check my Profile and in case of any doubts or offers, please reach out to me. Thanks a lot. :)
 
 
 <!-- section - skills -->
@@ -20,7 +20,7 @@ I'm Nipul Singal, Student at 👨‍💻 University School of Information, Commu
 
 ## I work on .. 💻
 
-JavaScript . React.js . Node.js . Full Stack . Databases
+JavaScript . React.js . Node.js . [Full Stack] . Databases
 
 Postgresql . MongoDB . Redis . MySQL
 
