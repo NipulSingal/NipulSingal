@@ -9,6 +9,15 @@ I'm Nipul Singal, Student at 👨‍💻 University School of Information, Commu
 
 <!-- section - skills -->
 
+# Hello World!! 🤔
+- 💬 Ask me about anything and everything! 
+- 📫 How to reach me: message me at [Whatsapp](https://wa.me/918950723937)
+- ⚡ Fun fact: I love having new connections, Helping students and professionals for their extravalent doubts! 
+- 🤠 Actively contributing to various organisations and Open-Source Projects.
+- 🌱 i love speak at public events and been a speaker at many events. I organise Worksops, Webinars etc to help student Community
+- 👯 I’m looking to collaborate on SDE Roles
+- 👯 And Many more...
+
 ## I work on .. 💻
 
 JavaScript . React.js . Node.js . Full Stack . Databases
