@@ -14,7 +14,8 @@ JavaScript . React.js . Node.js . Full Stack . Databases
 Postgresql . MongoDB . Redis . MySQL
 
 C . C++ . Java . CSS
-<!--
+
+---
 
 ## On the job .. 💯
 
@@ -26,6 +27,7 @@ C . C++ . Java . CSS
 
 
 <!-- section - job details -->
+<!--
 **NipulSingal/NipulSingal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
