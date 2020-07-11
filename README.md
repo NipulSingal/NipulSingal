@@ -5,7 +5,27 @@
 ## Hi there 👋,           
 I'm Nipul Singal, Student at 👨‍💻 University School of Information, Communication and Technology Pursuing BTech-IT. I am a Full Stack Web Developer(MERN) and have a keen interest for Competitive Programming too. Be sure to check my Profile and in case of any doubts or offers, please reach out to me. Thanks a lot. :)
 
+<!-- section - skills -->
+
+## I work on .. 💻
+
+JavaScript . React.js . Node.js . Full Stack . Databases
+
+Postgresql . MongoDB . Redis . MySQL
+
+C . C++ . Java . CSS
 <!--
+
+## On the job .. 💯
+
+> Frontend Engineer Intern - [**CryptoControl**](https://www.linkedin.com/company/cryptocontrol/)  ⭐
+
+> Full Stack Web Developer Intern - [**PFRepo**](https://pfrepo.me)
+
+> Website Developer - [**INFOXPRESSION**](https://infoxpression.in)
+
+
+<!-- section - job details -->
 **NipulSingal/NipulSingal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
