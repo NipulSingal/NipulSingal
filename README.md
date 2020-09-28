@@ -4,7 +4,7 @@
 
 <h3 align="center" style="margin: 0px">Hello World! I am Nipul Singal, an engineer 👨🏻‍🔬</h3>
 <p align="center"><a href="https://nipulsingal.me/" target="_blank">WEBSITE</a> ‧ <a href="https://www.linkedin.com/in/nipulsingal/" target="_blank">LINKEDIN</a> ‧ <a href="mailto:nipul00rock@gmail.com" target="_blank">GMAIL</a></p>
-<p align="center"><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/> <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/> <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/> <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/> <img src="https://img.shields.io/badge/-Node.JS-black?style=flat-square&logo=npm&logoColor=red"/></p>
+<p align="center"><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/> <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/> <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/> <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/> <img src="https://img.shields.io/badge/-Node.JS-35454E?style=flat-square&logo=node.js&logoColor=026E00"/></p>
 <!--
 [![Linkedin Badge](https://img.shields.io/badge/-NipulSingal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nipulsingal/)](https://www.linkedin.com/in/nipulsingal/) [![Github Badge](http://img.shields.io/badge/-@NipulSingal-black?style=flat-square&logo=Github&logoColor=white&link=https://github.com/NipulSingal)](https://github.com/NipulSingal) [![Facebook Badge](https://img.shields.io/badge/-NipulSingal-3D5B99?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/nipul.singal.7)](https://www.facebook.com/nipul.singal.7) [![Gmail Badge](https://img.shields.io/badge/-NipulSingal-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nipul00rock@gmail.com)](mailto:nipul00rock@gmail.com) 
 -->
@@ -15,12 +15,12 @@ I'm Nipul Singal, Student at 👨‍💻 University School of Information, Commu
 
 
 <!-- section - skills -->
-- 💬 Ask me about anything and everything! 
+- 💬 Ask me about anything, I'm up for a chat ! 
 - 📫 How to reach me: message me at [Whatsapp](https://wa.me/918950723937)
 - ⚡ Fun fact: I love having new connections, Helping students and professionals for their extravalent doubts! 
 - 🤠 Actively contributing to various organisations and Open-Source Projects.
-- 🔭 "I’m currently cleaning up my codebase",
-- 👯 "I’m looking to collaborate on new projects and SDE Roles",
+- 🔭 I’m currently cleaning up my codebase,
+- 👯 I’m looking to collaborate on new projects and SDE Roles,
 
 
 ## On the job .. 💯
