@@ -1,6 +1,6 @@
 <!-- # Nipul Singal
-## Software Developer  |  Full Stack Developer
-<h1 align="center">Nipul Singal</h1> -->
+## Software Developer  |  Full Stack Developer -->
+<h1 align="center">Nipul Singal</h1> 
 
 <h3 align="center" style="margin: 0px">Hello World! I am Nipul Singal, an engineer 👨🏻‍🔬</h3>
 <p align="center"><a href="https://nipulsingal.me/" target="_blank">WEBSITE</a> ‧ <a href="https://www.linkedin.com/in/nipulsingal/" target="_blank">LINKEDIN</a> ‧ <a href="mailto:nipul00rock@gmail.com" target="_blank">GMAIL</a></p>
@@ -15,23 +15,25 @@ I'm Nipul Singal, Student at 👨‍💻 University School of Information, Commu
 
 
 <!-- section - skills -->
-
-const h3ll0_w0rld!👋 = {
 - 💬 Ask me about anything and everything! 
 - 📫 How to reach me: message me at [Whatsapp](https://wa.me/918950723937)
 - ⚡ Fun fact: I love having new connections, Helping students and professionals for their extravalent doubts! 
 - 🤠 Actively contributing to various organisations and Open-Source Projects.
 - 🔭 "I’m currently cleaning up my codebase",
 - 👯 "I’m looking to collaborate on new projects and SDE Roles",
-}
+
 
 ## On the job .. 💯
 
-Frontend Engineer Intern - [**CryptoControl**](https://www.linkedin.com/company/cryptocontrol/)  ⭐
+Frontend Engineer Intern - [**Vezures**](https://www.linkedin.com/company/vezures/)  ⭐
 
 Full Stack Web Developer Intern - [**PFRepo**](https://pfrepo.me)
 
 Website Developer - [**INFOXPRESSION**](https://infoxpression.in)
+
+[![GitHub NipulSingal](https://img.shields.io/github/followers/NipulSingal?label=follow&style=social)](https://github.com/NipulSingal)
+[![Linkedin Badge](https://img.shields.io/badge/-NipulSingal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nipulsingal/)](https://www.linkedin.com/in/nipulsingal/)  [![Gmail Badge](https://img.shields.io/badge/-NipulSingal-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nipul00rock@gmail.com)](mailto:nipul00rock@gmail.com)
+[![website](https://img.shields.io/badge/Nipul-Portfolio-2648ff?style=flat-square&logo=google-chrome)](https://nipulsingal.me)
 
 <details open> 
  <summary><b>Featured Repos</b></summary>
