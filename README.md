@@ -26,7 +26,9 @@ I'm Nipul Singal, Student at 👨‍💻 University School of Information, Commu
 
 <!-- section -->
 
-- Frontend Engineer Intern - [**Vezures**](http://ipu.cymmetri.com)  ⭐
+- Software Development Cosultant - [**Unotech Software Pvt Ltd**](http://react.cymmetri.com)  ⭐
+
+- Frontend Engineer Intern - [**Vezures**](http://ipu.cymmetri.com)
 
 - Full Stack Web Developer Intern - [**PFRepo**](https://pfrepo.me)
 
